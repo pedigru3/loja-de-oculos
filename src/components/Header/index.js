@@ -7,9 +7,9 @@ export default function Header() {
             <div className='topo-container limitar-secao'>
                 <img className='topo-logo' src='./assets/logo.png'></img>
                 <nav className='topo-menu'>
-                        <a href=''>PRODUTOS</a>
-                        <a href=''>SOBRE</a>
-                        <a href=''>CONTATO</a>
+                        <a href='#produtos'>PRODUTOS</a>
+                        <a href='#sobre'>SOBRE</a>
+                        <a href='#contato'>CONTATO</a>
                 </nav>
             </div>
         </header>
