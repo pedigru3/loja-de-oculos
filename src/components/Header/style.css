@@ -1,0 +1,21 @@
+header{
+    padding: 10px 5px;
+}
+
+.topo-container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.topo-logo{
+    width: 150px;
+}
+
+.topo-menu a {
+    font-size: 18px;
+    color: #000;
+    text-decoration: none;
+    padding: 5px;
+    margin: 0 5px;
+}
